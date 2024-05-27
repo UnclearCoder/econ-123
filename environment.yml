@@ -1,0 +1,10 @@
+name: econ_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy=1.26.4
+  - pandas=2.1.4
+  - scipy=1.11.4
+  - polars=0.20.21
+  - ipykernel=6.23.0
