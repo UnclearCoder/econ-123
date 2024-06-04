@@ -163,8 +163,7 @@ data/processed/
 data/raw/
 data/interim/
 data/external/
-#force to keep the pnb.csv file in data/external
-
+*.pdf
 
 .DS_Store
 .vscode/
